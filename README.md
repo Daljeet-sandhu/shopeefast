@@ -1,6 +1,8 @@
 # Ecommerce-store
 A MERN Ecommerce app
 
+![picture alt](screenshot.png)
+
 ## Technologies Used
 #### Front-End
 - [ReactJs](https://react.dev/)
